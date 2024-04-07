@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/PmrhrPy/tim-alex-1i-P178kx-HQ-unsplash.jpg",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/3SQkQr1/pngtree-user-vector-avatar-png-image-1541962.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time":10,
+      "hashtag": ["#Lorem", "#Ipsum", "#Reading"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/YZW4TDF/rain-bennett-7-Nir5-XIRVM-unsplash.jpg",
+      "title": "Dolor Sit Amet",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/3SQkQr1/pngtree-user-vector-avatar-png-image-1541962.jpg",
+      "posted_date": "2024-03-16",
+      "reading_time": 8 ,
+      "hashtag": ["#Dolor", "#SitAmet", "#Reading"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/YP2WrjF/matt-ridley-H-LIL57-PHCc-unsplash.jpg",
+      "title": "Consectetur Adipiscing",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/3SQkQr1/pngtree-user-vector-avatar-png-image-1541962.jpg",
+      "posted_date": "2024-03-17",
+      "reading_time": 12,
+      "hashtag": ["#Consectetur", "#Adipiscing", "#Reading"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/pdLbLtn/sincerely-media-CXYPfveiuis-unsplash.jpg",
+      "title": "Nulla Facilisi",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/3SQkQr1/pngtree-user-vector-avatar-png-image-1541962.jpg",
+      "posted_date": "2024-03-18",
+      "reading_time": 7,
+      "hashtag": ["#NullaFacilisi", "#Reading"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/ck7PRRD/morgan-housel-a-Z-Mm-Sm-Acjg-unsplash.jpg",
+      "title": "Vivamus Venenatis",
+      "author": "David Lee",
+      "author_img": "https://i.ibb.co/3SQkQr1/pngtree-user-vector-avatar-png-image-1541962.jpg",
+      "posted_date": "2024-03-19",
+      "reading_time": 15,
+      "hashtag": ["#Vivamus", "#Venenatis", "#Reading"]
+    }
+  ]
+  
